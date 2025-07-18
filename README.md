@@ -8,7 +8,7 @@
 
 - 🎨 **Web Design**: HTML, CSS, Bootstrap, Responsive Design  
 - ⚛️ **Frameworks & Libraries**: ReactJS, Redux, Ant Design, MUI, React Bootstrap, React Icons  
-- 🧰 **Tools**: Git, GitHub, Figma  
+- 🧰 **Tools**: Git, GitHub,  
 - 💬 **Languages**: JavaScript, C
 
 ---
