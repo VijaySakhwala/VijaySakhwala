@@ -13,7 +13,3 @@
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: [vijaysakhawala@gmail.com](mailto:vijaysakhawala@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-sakhwala-30b476188/) | [GitHub](https://github.com/VijaySakhwala)
